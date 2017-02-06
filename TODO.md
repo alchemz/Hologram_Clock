@@ -1,0 +1,2 @@
+- obtain the user head tracking information from Hololens 
+- attack the tracking script to the clock prefab
